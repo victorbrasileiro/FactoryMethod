@@ -1,0 +1,15 @@
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.csproj.AssemblyReference.cache
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.AssemblyInfoInputs.cache
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.AssemblyInfo.cs
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.csproj.CoreCompileInputs.cache
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\net6.0\FactoryMethodTest.exe
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\net6.0\FactoryMethodTest.deps.json
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\net6.0\FactoryMethodTest.runtimeconfig.json
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\net6.0\FactoryMethodTest.dll
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\net6.0\FactoryMethodTest.pdb
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.dll
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\refint\FactoryMethodTest.dll
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.pdb
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\FactoryMethodTest.genruntimeconfig.cache
+C:\Users\MARCELLO.SILVA\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\net6.0\ref\FactoryMethodTest.dll
